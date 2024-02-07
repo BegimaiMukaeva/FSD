@@ -1,0 +1,31 @@
+.container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+  font-family: Protest Revolution;
+}
+
+.post {
+  margin-bottom: 20px;
+}
+
+.postTitle {
+  font-size: 20px;
+  color: #333;
+  margin-bottom: 5px;
+}
+
+.postBody {
+  font-size: 16px;
+  color: #555;
+  margin-bottom: 10px;
+}
+
+.postLink {
+  font-size: 18px;
+  color: #007bff;
+  text-decoration: none;
+}
+.postLink:hover {
+  text-decoration: underline;
+}
